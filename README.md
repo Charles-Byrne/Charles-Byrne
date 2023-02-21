@@ -12,6 +12,6 @@ Me chamo Charles, sou um programador Front-end. Venho evoluindo bastante fazendo
 
 <b>Estatísticas:<b/>
 
-![Charles Byrne GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles-Byrne&show_icons=true&theme=transparent)
+![Charles Byrne GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles-Byrne&show_icons=true&theme=blue-green)
 
-[![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-Byrne&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-Byrne&langs_count=8&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
