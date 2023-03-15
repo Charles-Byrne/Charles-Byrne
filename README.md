@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Me chamo Charles, Eu sou um desenvolvedor front-end com habilidades em HTML5, CSS, JavaScript, Git-Github e React. Atualmente, estou me aperfeiçoando em programação e sempre estou buscando novos conhecimentos para compartilhar com meus colegas e a comunidade em geral.
+Me chamo Charles, eu sou um desenvolvedor front-end com habilidades em HTML5, CSS, JavaScript, Git-Github e React. Atualmente, estou me aperfeiçoando em programação e sempre estou buscando novos conhecimentos para compartilhar com meus colegas e a comunidade em geral.
 
 <b>Habilidades:<b/>
 
