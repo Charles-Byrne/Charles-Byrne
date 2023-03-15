@@ -1,6 +1,8 @@
+<img src= "https://github.com/Charles-Byrne/Dev-Club/blob/master/Projeto-Resposividade-3/capa3.JPG?raw=true" />
+
 ### Hi there 👋
 
-Me chamo Charles, sou um programador Front-end. Venho evoluindo bastante fazendo alguns projetos.
+Me chamo Charles, Eu sou um desenvolvedor front-end com habilidades em HTML5, CSS, JavaScript, Git-Github e React. Atualmente, estou me aperfeiçoando em programação e sempre estou buscando novos conhecimentos para compartilhar com meus colegas e a comunidade em geral.
 
 <b>Habilidades:<b/>
 
