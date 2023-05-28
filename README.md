@@ -1,8 +1,16 @@
 <img src= "https://github.com/Charles-Byrne/Dev-Club/blob/master/Projeto-Resposividade-3/capa3.JPG?raw=true" />
 
-### Hi there 👋
+Gostaria de apresentar-me como um profissional que estuda e desenvolve aplicações full stack. Minhas principais habilidades estão voltadas para as tecnologias HTML5, CSS, JavaScript e GitHub. Além disso, tenho experiência em trabalhar com o framework React js e Node js, e possuo habilidade com as ferramentas npm e yarn.
 
-Me chamo Charles, eu sou um desenvolvedor front-end com habilidades em HTML5, CSS, JavaScript, Git-Github e React. Atualmente, estou me aperfeiçoando em programação e sempre estou buscando novos conhecimentos para compartilhar com meus colegas e a comunidade em geral.
+Como desenvolvedor full stack, sou capaz de criar aplicações web completas, desde o front-end até o back-end, utilizando as tecnologias mais atuais e eficientes do mercado. Tenho um amplo conhecimento em desenvolvimento de interfaces de usuário, utilizando HTML5 e CSS para criar layouts responsivos e agradáveis aos usuários.
+
+Além disso, sou capaz de desenvolver aplicações dinâmicas e interativas utilizando JavaScript, tanto no front-end quanto no back-end. Utilizo o GitHub para versionamento de código e colaboração em projetos em equipe.
+
+Minha experiência com o framework React js me permite criar aplicações web escaláveis e fáceis de manter. Já o Node js me permite criar aplicações do lado do servidor eficientes e de alto desempenho.
+
+Por fim, possuo habilidade com as ferramentas npm e yarn, que são essenciais para gerenciamento de dependências e pacotes em projetos JavaScript.
+
+Estou sempre em busca de novos desafios e oportunidades de aprendizado. Caso tenha interesse em conhecer mais sobre meu trabalho, ficarei feliz em apresentar meu portfólio e discutir como posso ajudar em seus projetos.
 
 <b>Habilidades:<b/>
 
