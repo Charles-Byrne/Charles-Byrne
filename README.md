@@ -1,4 +1,4 @@
-<img src= "[https://github.com/Charles-Byrne/Dev-Club/blob/master/Projeto-Resposividade-3/capa3.JPG?raw=true](https://media.licdn.com/dms/image/D4D16AQFPAlOjJjWmqw/profile-displaybackgroundimage-shrink_350_1400/0/1685043038010?e=1691020800&v=beta&t=zDASjKC2PNQj-R38vmhZRR5qk72KFvf58NCPBwxE59o)" />
+<img src= "https://ibb.co/L9MstS0" />
 
 Gostaria de apresentar-me como um profissional que estuda e desenvolve aplicações full stack. Minhas principais habilidades estão voltadas para as tecnologias HTML5, CSS, JavaScript e GitHub. Além disso, tenho experiência em trabalhar com o framework React js e Node js, e possuo habilidade com as ferramentas npm e yarn.
 
