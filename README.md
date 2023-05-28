@@ -1,4 +1,4 @@
-<img src= "https://ibb.co/L9MstS0" />
+<img src= "https://i.ibb.co/wpT2Wyd/Top.jpg" />
 
 Gostaria de apresentar-me como um profissional que estuda e desenvolve aplicações full stack. Minhas principais habilidades estão voltadas para as tecnologias HTML5, CSS, JavaScript e GitHub. Além disso, tenho experiência em trabalhar com o framework React js e Node js, e possuo habilidade com as ferramentas npm e yarn.
 
