@@ -22,6 +22,4 @@ Estou sempre em busca de novos desafios e oportunidades de aprendizado. Caso ten
 
 <b>Estatísticas:<b/>
 
-![Charles Byrne GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles-Byrne&show_icons=true&theme=blue-green)
-
-[![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-Byrne&langs_count=8&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Charles Byrne GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles-Byrne&show_icons=true&theme=blue-green)[![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-Byrne&langs_count=8&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
